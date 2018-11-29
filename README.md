@@ -43,5 +43,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-[](https://raw.githubusercontent.com/SeniorFlacko/ReactTypeScript-/master/src/increase%20button.JPG)
+![Increase](https://raw.githubusercontent.com/SeniorFlacko/ReactTypeScript-/master/src/increase%20button.JPG)
 
